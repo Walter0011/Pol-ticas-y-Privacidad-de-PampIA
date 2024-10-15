@@ -1,6 +1,7 @@
 ﻿Políticas y Privacidad de PampIA
 
 
+
 Introducción
 PampIA es un bot de Discord diseñado para ofrecer asistencia mediante inteligencia artificial. Este documento detalla nuestras políticas de privacidad y el manejo de datos.
 
